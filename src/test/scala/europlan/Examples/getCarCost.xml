@@ -1,0 +1,26 @@
+<vsk:GetCarCostRequest  xmlns:ns3="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:vsk="http://www.vsk.ru" xmlns:ws="http://ws.rls10">
+    <vsk:PRODUCT>1CBE18E9-E086-4A2A-B56A-E55EF813077E</vsk:PRODUCT>
+    <vsk:PROGRAMTYPE>
+        <ws:Id>F7BBE3F4-5B0E-43D0-8132-111944C7F3C0</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Programm</ws:Type></vsk:PROGRAMTYPE>
+    <vsk:PROLONGATION>false</vsk:PROLONGATION>
+    <vsk:CARMODEL>
+        <ws:Id>41C3284E-9356-4A5F-97D4-755221C032F2</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_VEHICLE_MOD</ws:Type></vsk:CARMODEL>
+    <vsk:CONSTRUCTED>2010</vsk:CONSTRUCTED>
+    <vsk:ENGINEPOWER>125</vsk:ENGINEPOWER>
+    <vsk:MOTORTYPE>
+        <ws:Id>DCCE61C6-65F7-47FD-9F92-F4D6019F20C5</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_VEHICLE_Motor</ws:Type></vsk:MOTORTYPE>
+    <vsk:MOTORVOLUME>1798</vsk:MOTORVOLUME>
+    <vsk:KPPTYPE>
+        <ws:Id>5C6E8F7C-836D-4D2F-95C7-1A6054261EFA</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_VEHICLE_KPP</ws:Type></vsk:KPPTYPE>
+    <vsk:BODYTYPE>
+        <ws:Id>AFB3F790-C134-41FE-B691-8DB89F6E969E</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_VEHICLE_BodyType</ws:Type></vsk:BODYTYPE></vsk:GetCarCostRequest>
